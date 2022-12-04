@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Abel', sans-serif;
+    font-size: large;
+    margin: 0;
+}
+
+
+
+text {
+    color: rgb(27, 23, 23);
+}
+
+footer {
+    padding: 10%;
+}
